@@ -61,7 +61,7 @@ class ProductImageController extends Controller
         //Xoá file
         $filePath = ProductImage::find($product_image_id)->path;
         if ($filePath != '') {
-            unlink('front/img/products/' . $filePath);
+            unlink('dashboard/assets/images/' . $filePath);
         }
 
         //Xoá bản ghi trong database
