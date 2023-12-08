@@ -1,16 +1,3 @@
-## <p align="center"><a href="http://webn4.ddns.net" target="_blank">Truy cập trang web</a></p>
-
-<p align="center"><a href="http://webn4.ddns.net" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-yNG70Y-j3U_E50C26BCP7SZirl9-6Js27OamDNAEVYfIqRArw2RM_ptWf2DTpzNepPFEQjPDE4uUtQsE1WwgdaRMCt=w2560-h1422" width="400"></a><a href="https://www.haui.edu.vn/vn" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-wQ4uiR86Rv4e5LxyPFSU88DmrzupH2BKhnpwpndohp-lqdL4pPscdWHXO4otieHZfjV08NVTrV8eucU1MV5Fn_kCeHLw=w2560-h1422" width="400"></a></p>
-
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
-
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
