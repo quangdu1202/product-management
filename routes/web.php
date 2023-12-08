@@ -11,10 +11,7 @@
 |
 */
 
-use Admin\ProductController;
-use Admin\ProductImageController;
 use App\Http\Controllers\Admin\HomeController;
-use App\Http\Controllers\Front;
 use Illuminate\Support\Facades\Route;
 
 Route::redirect('/', '/product');
