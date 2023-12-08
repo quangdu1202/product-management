@@ -118,7 +118,7 @@ class ProductController extends Controller
      * @param int $id
      * @return Response
      */
-    public function destroy($id): Response
+    public function destroy($id)
     {
         $this->productService->delete($id);
 
